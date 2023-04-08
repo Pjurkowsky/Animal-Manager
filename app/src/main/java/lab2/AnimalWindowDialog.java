@@ -19,8 +19,8 @@ import java.awt.event.ActionListener;
 
 public class AnimalWindowDialog extends JDialog implements ActionListener {
 
-    private static final int WINDOW_WIDTH = 220;
-    private static final int WINDOW_HEIGHT = 220;
+    private static final int WINDOW_WIDTH = 200;
+    private static final int WINDOW_HEIGHT = 200;
 
     private Animal animal;
 

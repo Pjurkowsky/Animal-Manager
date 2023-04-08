@@ -2,7 +2,7 @@
  *  Program: Typ wyliczeniowy do kolekcji
  *     Plik: GroupType.java
  *
- *    Autor: Łukasz Wdowiak 264026
+ *    Autor: Lukasz Wdowiak 264026
  *     Data: listopad 2022 r.
  */
 package lab3.data;

@@ -1,9 +1,9 @@
 /*
- * Program: Prosta biblioteka metod do realizacji dialogu z uøytkownikiem
- *          w prostych aplikacjach bez graficznego interfejsu uøytkownika.
+ * Program: Prosta biblioteka metod do realizacji dialogu z u≈ºytkownikiem
+ *          w prostych aplikacjach bez graficznego interfejsu u≈ºytkownika.
  *    Plik: ConsoleUserDialog.java
  *          
- *   Autor: Pawe≥ Rogalinski
+ *   Autor: Pawe≈Ç Rogalinski
  *    Data: pazdziernik 2021 r.
  *
  */
@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class ConsoleUserDialog {
 	 private final String  ERROR_MESSAGE =
-	          "Nieprawid≥owe dane!\nSprÛbuj jeszcze raz.";
+	          "NieprawidÔøΩowe dane!\nSpr√≥buj jeszcze raz.";
   
   private Scanner sc = new Scanner(System.in);
 
